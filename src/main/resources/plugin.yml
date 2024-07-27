@@ -1,0 +1,4 @@
+name: TimberPlugin
+version: '${project.version}'
+main: fr.flastar.timberplugin.TimberPlugin
+api-version: '1.20'
